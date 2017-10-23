@@ -8,9 +8,9 @@
          bootstrap="vendor/autoload.php"
 >
     <php>
-        <server name="KERNEL_DIR" value="/var/www/games/" />
+        <!--<server name="KERNEL_DIR" value="/var/www/games/" />-->
         <ini name="error_reporting" value="-1" />
-        <server name="KERNEL_CLASS" value="AppKernel" />
+        <!--<server name="KERNEL_CLASS" value="AppKernel" />-->
     </php>
 
     <testsuites>

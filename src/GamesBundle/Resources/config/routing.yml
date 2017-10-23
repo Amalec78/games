@@ -1,3 +1,7 @@
 games_homepage:
     path:     /
     defaults: { _controller: GamesBundle:Default:index }
+
+games_verification:
+    path:     /valide-exo
+    defaults: { _controller: GamesBundle:Default:valideExo }

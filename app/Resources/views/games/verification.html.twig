@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+<h1>
+    {% if reponse == true %}
+        L'exo est réussi :)
+    {% else %}
+        L'exo n'est pas bon :(
+    {% endif %}
+</h1>
+{% endblock %}
