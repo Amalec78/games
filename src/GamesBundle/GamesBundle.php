@@ -1,9 +1,9 @@
 <?php
 
-namespace AppBundle;
+namespace GamesBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class AppBundle extends Bundle
+class GamesBundle extends Bundle
 {
 }

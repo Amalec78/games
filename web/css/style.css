@@ -1,0 +1,15 @@
+html {
+
+}
+
+body {
+    background-image: url( "../images/79189095_o.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.carre{
+    width:150px;
+    height:50px;
+    background:#069;
+}

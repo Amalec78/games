@@ -1,0 +1,4 @@
+parameters:
+    cards:
+        hands: "https://recrutement.local-trust.com/test/cards/57187b7c975adeb8520a283c"
+        verification: "https://recrutement.local-trust.com/test/{exerciceId}"
